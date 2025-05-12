@@ -21,6 +21,42 @@
             "overlay_position": "position--hcenter position--vcenter"
           }
         },
+        "image_pnrarB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shimmer_26_pc.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/shimmer_26_sp.jpg",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify:\/\/pages\/shimmerpj-26",
+            "subheading": "shimmer#26",
+            "title": "宮之鶴",
+            "title_size": 60,
+            "heading_h1": false,
+            "text": "<p>特A山田錦 磨き8割 保安濾過仕上<\/p>",
+            "enlarge_text": true,
+            "button_label": "詳しくはこちら",
+            "overlay_position": "position--hcenter position--vcenter"
+          }
+        },
+        "image_YcfAbb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/22-25-1200-628.png",
+            "mobile_image": "shopify:\/\/shop_images\/22-25-square-1.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify:\/\/pages\/shimmerpj-22",
+            "subheading": "shimmer#22\/#23\/#24\/#25",
+            "title": "花酒 与那国",
+            "title_size": 60,
+            "heading_h1": false,
+            "text": "<p>清酒酵母まほろば吟仕込シリーズ<\/p>",
+            "enlarge_text": true,
+            "button_label": "詳しくはこちら",
+            "overlay_position": "position--hcenter position--vcenter"
+          }
+        },
         "image_PxaPRa": {
           "type": "image",
           "settings": {
@@ -92,34 +128,16 @@
             "button_label": "詳しくはこちら",
             "overlay_position": "position--hcenter position--vcenter"
           }
-        },
-        "image_pnrarB": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shimmer_17wide.png",
-            "mobile_image": "shopify:\/\/shop_images\/shimmer_17_square.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "slide_link": "shopify:\/\/pages\/shimmerpj-17",
-            "subheading": "shimmer#17",
-            "title": "暖流3年貯蔵",
-            "title_size": 60,
-            "heading_h1": false,
-            "text": "<p>Mead Cask Finish<\/p>",
-            "enlarge_text": true,
-            "button_label": "",
-            "overlay_position": "position--hcenter position--vcenter"
-          }
         }
       },
       "block_order": [
         "image_gqzfqA",
+        "image_pnrarB",
+        "image_YcfAbb",
         "image_PxaPRa",
         "image_cjzUez",
         "image_74LeEx",
-        "image_Y6nfYJ",
-        "image_pnrarB"
+        "image_Y6nfYJ"
       ],
       "settings": {
         "height": "adapt",

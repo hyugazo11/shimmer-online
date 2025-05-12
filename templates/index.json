@@ -3,6 +3,78 @@
     "a23eb069-d026-4f57-9ed2-7b13b66a5e56": {
       "type": "slideshow",
       "blocks": {
+        "image_iaiDcr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2048_x_1024_px.png",
+            "mobile_image": "shopify:\/\/shop_images\/1_0ffb435c-722c-48af-b3bd-b5f0f2999fde.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify:\/\/pages\/np_introduction",
+            "subheading": "",
+            "title": "",
+            "title_size": 60,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label": "",
+            "overlay_position": "position--hcenter position--vcenter"
+          }
+        },
+        "image_icQMFH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shimmer_26_pc.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/shimmer_26_sp.jpg",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify:\/\/pages\/shimmerpj-26",
+            "subheading": "",
+            "title": "",
+            "title_size": 60,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label": "",
+            "overlay_position": "position--hcenter position--top"
+          }
+        },
+        "image_hDMYtL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kagan_pc.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/kagan_sp.jpg",
+            "desktop_image_position": "center top",
+            "mobile_image_position": "center center",
+            "slide_link": "https:\/\/shimmer.okinawa\/products\/kagan-vol1",
+            "subheading": "",
+            "title": "",
+            "title_size": 60,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label": "",
+            "overlay_position": "position--left position--top"
+          }
+        },
+        "image_gejFVH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/22-25-1200-628.png",
+            "mobile_image": "shopify:\/\/shop_images\/22-25-square-1.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify:\/\/pages\/shimmerpj-22",
+            "subheading": "shimmer#22\/#23\/#24\/#25",
+            "title": "与那国",
+            "title_size": 60,
+            "heading_h1": false,
+            "text": "<p>花酒　清酒酵母まほろば吟仕込シリーズ<\/p>",
+            "enlarge_text": true,
+            "button_label": "詳しくはこちら",
+            "overlay_position": "position--hcenter position--vcenter"
+          }
+        },
         "image_66yLzf": {
           "type": "image",
           "settings": {
@@ -56,91 +128,16 @@
             "button_label": "詳しくはこちら",
             "overlay_position": "position--hcenter position--vcenter"
           }
-        },
-        "image_QCY9Kj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shimmer18_1200_628_SNS_2.png",
-            "mobile_image": "shopify:\/\/shop_images\/shimmer18_SNS_square.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "slide_link": "shopify:\/\/pages\/shimmerpj-18",
-            "subheading": "shimmer#18",
-            "title": "松藤",
-            "title_size": 60,
-            "heading_h1": false,
-            "text": "<p>黒麹菌イヌイ株泡盛1号酵母仕込原酒<\/p>",
-            "enlarge_text": true,
-            "button_label": "詳しくはこちら",
-            "overlay_position": "position--hcenter position--vcenter"
-          }
-        },
-        "image_9xdLYE": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shimmer_17wide.png",
-            "mobile_image": "shopify:\/\/shop_images\/shimmer_17_square.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "slide_link": "shopify:\/\/pages\/shimmerpj-17",
-            "subheading": "shimmer#17",
-            "title": "暖流3年貯蔵",
-            "title_size": 60,
-            "heading_h1": false,
-            "text": "<p>Mead Cask Finish<\/p>",
-            "enlarge_text": true,
-            "button_label": "詳しくはこちら",
-            "overlay_position": "position--hcenter position--vcenter"
-          }
-        },
-        "image_DrHa38": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shimmer_16_bb2f284d-5760-4f84-ae5b-6e39f6120ec6.png",
-            "mobile_image": "shopify:\/\/shop_images\/5d495b78c70fbabd940059c4ee00cc68.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "slide_link": "shopify:\/\/pages\/shimmerpj-16",
-            "subheading": "shimmer#16",
-            "title": "宮の華",
-            "title_size": 60,
-            "heading_h1": false,
-            "text": "<p>ジャスミンライス仕込<\/p>",
-            "enlarge_text": true,
-            "button_label": "詳しくはこちら",
-            "overlay_position": "position--hcenter position--vcenter"
-          }
-        },
-        "template--16160799752443__a23eb069-d026-4f57-9ed2-7b13b66a5e56-image-1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shimmer_15_2024.1.29_release_sennen_no_hibiki_16years.png",
-            "mobile_image": "shopify:\/\/shop_images\/shimmer15_square.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "slide_link": "shopify:\/\/pages\/shimmerpj-15",
-            "subheading": "shimmer#15",
-            "title": "千年の響 16年",
-            "title_size": 50,
-            "heading_h1": false,
-            "text": "<p>Madeira Cask Finish<\/p>",
-            "enlarge_text": false,
-            "button_label": "詳しくはこちら",
-            "overlay_position": "position--hcenter position--vcenter"
-          }
         }
       },
       "block_order": [
+        "image_iaiDcr",
+        "image_icQMFH",
+        "image_hDMYtL",
+        "image_gejFVH",
         "image_66yLzf",
         "image_9JjqqB",
-        "image_tkAxYJ",
-        "image_QCY9Kj",
-        "image_9xdLYE",
-        "image_DrHa38",
-        "template--16160799752443__a23eb069-d026-4f57-9ed2-7b13b66a5e56-image-1"
+        "image_tkAxYJ"
       ],
       "settings": {
         "height": "adapt",
@@ -155,34 +152,63 @@
         "autoplay_speed": 7
       }
     },
-    "featured_collection_GfVUPQ": {
-      "type": "featured-collection",
+    "rich_text_XkcmAQ": {
+      "type": "rich-text",
       "disabled": true,
       "settings": {
-        "title": "NEW LINEUP",
-        "collection": "shimmer-17-color-shift",
-        "layout": "rows",
-        "show_vendor": false,
-        "grid": 3,
-        "rows": 2,
-        "grid_mobile": "2",
-        "hide_swatches": false,
-        "alternate_bg_color": false,
-        "show_view_all": true
+        "subheading": "",
+        "title": "年末年始休業および配送に関するお知らせ",
+        "title_size": 30,
+        "heading_h1": false,
+        "text": "<h3><strong>配送業務休業期間：2024\/12\/28～2025\/1\/5<br\/>出荷再開：2025\/1\/6~順次出荷<\/strong><\/h3>",
+        "image_width": 180,
+        "button_label": "詳しくはこちら",
+        "button_link": "https:\/\/shimmer.okinawa\/blogs\/pr\/2024yearend",
+        "button_style": "secondary",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "rich_text_KWmdAX": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "ゴールデンウィーク休業に関するお知らせ",
+        "title_size": 34,
+        "heading_h1": false,
+        "text": "<h4><strong>休業期間：4\/29(火)・5\/3(土)～ 5\/6(火)<br\/><\/strong>休業中のご注文・お問い合わせについては翌営業日に対応させていただきます。<br\/><\/h4>",
+        "image_width": 60,
+        "button_label": "詳しくはこちら",
+        "button_link": "https:\/\/shimmer.okinawa\/blogs\/pr\/2025gw",
+        "button_style": "secondary",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
       }
     },
     "rich_text_KhePg4": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
-        "title": "shimmerシリーズ一部商品\n価格改定のご案内",
-        "title_size": 44,
+        "title": "『Amazon pay決済』サービス終了について",
+        "title_size": 30,
         "heading_h1": false,
-        "text": "<h4>平素よりshimmer onlineをご利用いただきまして誠にありがとうございます。このたび弊社が販売する商品の一部について、価格改定を実施いたします。<\/h4><h4><a href=\"https:\/\/shimmer.okinawa\/blogs\/pr\/shimmer-price-revision\" title=\"https:\/\/shimmer.okinawa\/blogs\/pr\/shimmer-price-revision\"><strong>詳しくはこちら<\/strong><\/a><\/h4>",
+        "text": "<h4><strong>2025\/1\/6(月)<\/strong>をもちまして『Amazon pay』の取り扱いを終了させていただくこととなりました。<\/h4>",
         "image_width": 180,
-        "button_label": "",
-        "button_link": "",
-        "button_style": "auto",
+        "button_label": "詳しくはこちら",
+        "button_link": "https:\/\/shimmer.okinawa\/blogs\/pr\/amazonpay",
+        "button_style": "secondary",
         "text_alignment": "center",
         "enlarge_text": false,
         "full_width": false,
@@ -698,7 +724,8 @@
   },
   "order": [
     "a23eb069-d026-4f57-9ed2-7b13b66a5e56",
-    "featured_collection_GfVUPQ",
+    "rich_text_XkcmAQ",
+    "rich_text_KWmdAX",
     "rich_text_KhePg4",
     "88408184-1b82-4fa4-8b87-0194de71a54a",
     "166259548918c7c4f1",

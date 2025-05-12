@@ -6,17 +6,17 @@
 <div class="date-picker-container">
     <label>配送希望日時を指定する※</label>
     <div class="date-picker-inner">
-      <input id="DeliveryDate" type="text" class="delivery-date" name="attributes[配送希望日]" value="{{ cart.attributes["配送希望日"] }}" placeholder="日付を指定してください"　/>
-      <select id="DeliveryTime" class="delivery-time" name="attributes[配送希望時間]"　>
+      <input id="DeliveryDate" type="text" class="delivery-date" name="attributes[delivery_date]" value="{{ cart.attributes["delivery_date"] }}" placeholder="日付を指定してください"　/>
+      <select id="DeliveryTime" class="delivery-time" name="attributes[delivery_time]"　>
         <option value="">時間を指定しない</option>
         <option value="午前中">午前中</option>
-        <option value="14-16時" {% if cart.attributes["配送希望時間"] == "14-16時" %}selected{% endif %}>14-16時</option>
-        <option value="16-18時" {% if cart.attributes["配送希望時間"] == "16-18時" %}selected{% endif %}>16-18時</option>
-        <option value="18-20時" {% if cart.attributes["配送希望時間"] == "18-20時" %}selected{% endif %}>18-20時</option>
-        <option value="19-21時" {% if cart.attributes["配送希望時間"] == "19-21時" %}selected{% endif %}>19-21時</option>
+        <option value="14-16時" {% if cart.attributes["delivery_time"] == "14-16時" %}selected{% endif %}>14-16時</option>
+        <option value="16-18時" {% if cart.attributes["delivery_time"] == "16-18時" %}selected{% endif %}>16-18時</option>
+        <option value="18-20時" {% if cart.attributes["delivery_time"] == "18-20時" %}selected{% endif %}>18-20時</option>
+        <option value="19-21時" {% if cart.attributes["delivery_time"] == "19-21時" %}selected{% endif %}>19-21時</option>
       </select>
     </div>
-    <p class="date-picker-description">※金曜午後及び土日祝日の注文は発送作業を行っておりません。<br>日付指定をしてもご希望の日付/時間通りに配達されない場合がございます、予めご了承ください。<br>配送作業は翌営業日に実施いたします。</p>
+    <p class="date-picker-description"><br>※金曜午後及び土日祝日の注文は発送作業を行っておりません。<br>日付指定をしてもご希望の日付/時間通りに配達されない場合がございます、予めご了承ください。<br>配送作業は翌営業日に実施いたします。</p>
   
 </div>
 
@@ -83,7 +83,7 @@
   const target = document.querySelectorAll('#DeliveryTime option');
   for(let i in target){
 	if (target.hasOwnProperty(i)) {
-		if(target[i].value == '{{ cart.attributes["配送希望時間"] }}'){
+		if(target[i].value == '{{ cart.attributes["delivery_time"] }}'){
           document.getElementById('DeliveryTime').options[i].selected = true;
           console.log(document.getElementById('DeliveryTime').options[i]);
         }
