@@ -48,6 +48,13 @@
             "text_style": "uppercase"
           }
         },
+        "text_38bh3P": {
+          "type": "text",
+          "settings": {
+            "text": "【包装について】　　　　　　　　　　　　　　　　　当店ではラッピング等ギフト対応は承っておりません。ご了承ください。",
+            "text_style": "uppercase"
+          }
+        },
         "text_AejLU8": {
           "type": "text",
           "disabled": true,
@@ -93,6 +100,7 @@
         "price",
         "2a842c2c-cc6d-4658-b1a3-4f2b8d09efa2",
         "8ef3316c-3e3c-4098-98a8-1e364f73c81e",
+        "text_38bh3P",
         "text_AejLU8",
         "richtext_tNiyFL",
         "richtext_3HDemE",
